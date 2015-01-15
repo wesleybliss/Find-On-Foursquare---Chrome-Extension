@@ -2,10 +2,10 @@
   "name": "Find On Foursquare",
   "description": "Searches for selected text on Foursquare.",
   "version": "0.1",
-  "permissions": ["contextMenus"],
+  "manifest_version": 2,
   "background": {
     "persistent": false,
     "scripts": ["main.js"]
   },
-  "manifest_version": 2
+  "permissions": ["contextMenus", "tabs"]
 }
