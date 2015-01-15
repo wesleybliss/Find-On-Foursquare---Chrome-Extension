@@ -1,7 +1,7 @@
 {
   "name": "Find On Foursquare",
-  "description": "Searches for selected text on Foursquare.",
-  "version": "0.1",
+  "description": "A small, quick context menu option to search for the selected text on Foursquare.",
+  "version": "1.0",
   "manifest_version": 2,
   "background": {
     "persistent": false,
